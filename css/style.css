@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+body,h1,h2,h3,h4,h5,h6,span,button,input{
+	font-family: 'Cairo', sans-serif;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	margin-top: 20px;
+}
+.header{
+	background-color: #BCC1C5;
+}
+
+.menu-itm{
+	list-style: none;
+	padding: 10px, 0px,
+	text-decoration: none;
+}
+.menu-itm ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn-signin{
+	padding-right: 35px;
+	padding-top: 10px;
+	padding-left: 35px;
+	padding-bottom : 10px;
+	text-align: center;
+	float: right;
+	background-color: red;
+}
+.banner{
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	overflow: hidden;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+.details-h{
+	text-align: left;
+	font-size: 25px;
+	padding: 30px;
+}
+.details{
+	text-align: left;
+	font-size: 15px;
+	padding: 30px;
+}
+.card-section{
+	display: inline-block;
+}
+.post-bar{
+	padding: px;
+}
+.post-item{
+	padding: 110px
+}
+.sign-letter{
+	background-color: #B6B8BB;
+	padding: 100px;
+	text-align: center;
+}
+.sign-news{
+	padding: 10px 20px;
+	margin-bottom: 30px;
+}
+.sign-input{
+	padding: 10px 30px;
+}
+.btn-loadmore{
+	text-align: center;
+	margin-left: 0%;
+
+}
+.footer{
+	
+	margin-top: 10px;
+	padding-top: 15px, auto;
+	background-color: #6D6E6A;
+}
+.term-privacy{
+	margin-top: 30px;
+	color:blue;
+}
+.tram{
+	color: blue;
+	padding:10px;
+}
+.follow{
+	color: blue;
+	display: inline-block;
+}
+.icon{
+	float: right;
+}
+.icon-1{
+	padding: 10px;
+}
+.icon-2{
+	padding: 10px;
+}
+
+.icon-3{
+	padding: 10px;
+}
